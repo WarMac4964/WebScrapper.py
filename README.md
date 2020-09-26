@@ -10,4 +10,5 @@ WebScrapper.py is a webscrapper based on python.
 - returns the make of the graphic card, it's name and it'ss shipping cost 
 - stores the data in a .csv file 
 
-![Data](website data.png)
+# Data
+![Data](data.png)
